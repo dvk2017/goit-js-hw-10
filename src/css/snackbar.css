@@ -22,6 +22,7 @@
   max-width: 360px;
   height: 40px;
   margin-top: 8px;
+  padding: 0 16px;
 }
 
 .form input[name='delay']:hover {
